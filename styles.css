@@ -27,3 +27,12 @@ h1 {
 h2 {
     font-size: 20px;
 }
+
+.secondSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color : #1746c6;
+    font-family: Arial, Helvetica, sans-serif;
+}
