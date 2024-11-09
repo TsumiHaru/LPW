@@ -1,0 +1,29 @@
+body {
+    background-color: #f4f4f4;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color : #1746c6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.firstSection {
+    border: 2px solid #dcdcdc;
+}
+
+header p {
+    font-style: italic;
+    text-align: center;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 20px;
+}
